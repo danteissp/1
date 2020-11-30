@@ -1,0 +1,131 @@
+h1 {
+    color: white;
+    font-family: cursive;
+    background-color: purple;
+    text-align: center;
+   }
+
+h2 {
+    color: green;
+    font-family: cursive;
+    text-decoration: underline solid blue;
+   }
+
+h3 {
+    color: red;
+    font-family: cursive;
+    text-decoration: underline solid yellow;
+    text-align:center;
+   }
+
+h4 {
+    color: violet;
+    font-family: cursive;
+    text-decoration: underline solid orange;
+   }
+
+h5 {
+    color: pink;
+    font-family: cursive;
+    text-decoration: underline solid brown;
+    text-align: center;
+   }
+
+h6 {
+    color: salmon;
+    font-family: fantasy;
+    text-decoration: underline solid aquamarine;
+   } 
+
+.form-group1 {
+    color: crimson;
+    font-family: cursive;
+    text-align: left;
+             }
+
+.form-group2 {
+    color: darkkhaki;
+    font-family: cursive;
+    text-align: left;
+             }
+
+.form-group3 {
+    color: gold;
+    font-family: cursive;
+    text-align: left;
+             }
+
+.card-text {
+    color: seagreen;
+           }
+
+.c1 {
+    color: aqua;
+    font-family: fantasy;
+    }
+
+.c2 {
+    color: greenyellow;
+    font-family: fantasy;
+    }
+
+.c3 {
+    color: tomato;
+    font-family: fantasy;
+    }
+
+.p1 {
+    color: turquoise;
+    font-family: fantasy;
+    }
+
+.p2 {
+    color: yellowgreen;
+    font-family: fantasy;
+    }
+
+.p3 {
+    color: goldenrod;
+    font-family: fantasy;
+    }
+
+.p4 {
+    color: indianred;
+    font-family: fantasy;
+    }
+
+.img1 {
+    border-radius: 50%;
+      }
+
+.lead {
+    color: lightcoral;
+    background-color: blanchedalmond;
+    font-family: fantasy;
+      }
+
+.container {
+    background-color: black;
+    opacity: 0.75;
+           }
+
+.copyright {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-align: center;
+           }
+
+.contacto {
+    color:cyan;
+    font-family: cursive;
+    text-decoration: underline solid fuchsia;
+    text-align: left;
+          }
+
+.redes {
+    color:white;
+    font-family: cursive;
+    text-decoration: none;
+    text-align: left;
+       }
